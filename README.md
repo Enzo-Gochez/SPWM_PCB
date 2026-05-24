@@ -2,5 +2,6 @@
 A high-precision SPWM control signal generator based on ICL8038 and LT1014. Developed using KiCad, the design includes signal generation, comparison stages, and a robust PCB layout.
 
 Schematic view
-<img width="1102" height="753" alt="image" src="https://github.com/user-attachments/assets/755709fc-cf09-453a-b470-f8b9251d5126" />
+<img width="997" height="657" alt="image" src="https://github.com/user-attachments/assets/2ebd641e-2bd9-4423-b9ad-515f476f04a0" />
+
 
