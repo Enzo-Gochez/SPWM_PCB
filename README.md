@@ -15,5 +15,9 @@ Simulated digital oscilloscope view
 
 <img width="1376" height="870" alt="image" src="https://github.com/user-attachments/assets/f7a13860-457c-4bc8-bfe0-563e9b5feb41" />
 
+3D view
+<img width="1040" height="592" alt="image" src="https://github.com/user-attachments/assets/ebac4122-bb17-4c57-94a8-ae63f696a783" />
+
+
 
 
