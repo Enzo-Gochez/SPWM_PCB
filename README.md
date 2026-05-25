@@ -6,7 +6,7 @@ Schematic view
 
 
 PCB layout view
-<img width="1323" height="872" alt="image" src="https://github.com/user-attachments/assets/150c348f-12ae-4544-825d-b22eb8120c01" />
+<img width="831" height="468" alt="image" src="https://github.com/user-attachments/assets/54ab6c00-46ea-4eea-9637-dcc9fc260a93" />
 
 
 Simulated digital oscilloscope view
